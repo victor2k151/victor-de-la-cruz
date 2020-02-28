@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\proyecto4\bin\Debug\netcoreapp3.1\proyecto4.exe
+C:\Users\Lenovo\source\repos\proyecto4\bin\Debug\netcoreapp3.1\proyecto4.deps.json
+C:\Users\Lenovo\source\repos\proyecto4\bin\Debug\netcoreapp3.1\proyecto4.runtimeconfig.json
+C:\Users\Lenovo\source\repos\proyecto4\bin\Debug\netcoreapp3.1\proyecto4.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\proyecto4\bin\Debug\netcoreapp3.1\proyecto4.dll
+C:\Users\Lenovo\source\repos\proyecto4\bin\Debug\netcoreapp3.1\proyecto4.pdb
+C:\Users\Lenovo\source\repos\proyecto4\obj\Debug\netcoreapp3.1\proyecto4.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\proyecto4\obj\Debug\netcoreapp3.1\proyecto4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\proyecto4\obj\Debug\netcoreapp3.1\proyecto4.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\proyecto4\obj\Debug\netcoreapp3.1\proyecto4.dll
+C:\Users\Lenovo\source\repos\proyecto4\obj\Debug\netcoreapp3.1\proyecto4.pdb
